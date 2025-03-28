@@ -1,6 +1,6 @@
-# Notebook Remote Desktop
+# Notebook to Remote Desktop
 
-Deploy a complete remote desktop on Kaggle or google colab using Xvfb, XFCE, noVNC, and ngrok. This project enables you to access a full-featured GUI computer remotely—including a web browser, terminal, and desktop applications—using Kaggle’s network.
+Deploy a complete remote desktop using Kaggle or google colab notebook using Xvfb, XFCE, noVNC, and ngrok. This project enables you to access a full-featured GUI computer remotely—including a web browser, terminal, and desktop applications—using Kaggle’s or collab network.
 
 ## Overview
 
