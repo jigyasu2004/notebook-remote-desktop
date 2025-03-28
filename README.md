@@ -25,6 +25,7 @@ With this setup, you can run a complete GUI computer on notbook, Kaggle’s serv
 
    ```bash
    git clone https://github.com/yourusername/notebook-remote-desktop.git
-   #run each cell step by step
-   #mention ngrok authtoken
-   #password for connect is notebook
+   # open notebook_remote_desktop.ipynb
+   # run each cell step by step
+   # mention ngrok authtoken in 2nd cell
+   # password for connect is "notebook"
